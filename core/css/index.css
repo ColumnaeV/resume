@@ -1,12 +1,5 @@
 /*Font Styles*/
 @font-face {
-    font-family: 'Roboto';
-    src: url(../font/Roboto-Thin.tff);
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
     font-family: 'SF-Pro-Display-Regular';
     src: url(../font/SF-Pro-Display-Regular.otf);
     font-weight: normal;
@@ -496,10 +489,7 @@ div {
     padding: 8vw 4vw 8vw 4vw;
     height: 100%;
     width: 100%;
-    background-image: url(../img/blurred.jpg);
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-color: #1c1c1c;
 }
     
 .portrait-wrapper {
